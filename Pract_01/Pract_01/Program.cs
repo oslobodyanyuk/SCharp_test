@@ -11,7 +11,8 @@ namespace Pract_01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello everyone!");
-            
+            Console.WriteLine(":-)");
+
         }
     }
 }
